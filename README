@@ -1,0 +1,4 @@
+iTileMaps Importing Tutorial
+
+This code shows how your application can import maps from iTileMaps directly using cocos2d as graphics engine.
+Code is based on Ray Wenderlich's tutorial about tile maps.
